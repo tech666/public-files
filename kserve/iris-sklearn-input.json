@@ -1,0 +1,31 @@
+{
+  "parameters": {
+    "content_type": "pd"
+  },
+  "inputs": [
+    {
+      "name": "sepal length (cm)",
+      "shape": [1],
+      "datatype": "FP32",
+      "data": [5.1]
+    },
+    {
+      "name": "sepal width (cm)",
+      "shape": [1],
+      "datatype": "FP32",
+      "data": [3.5]
+    },
+    {
+      "name": "petal length (cm)",
+      "shape": [1],
+      "datatype": "FP32",
+      "data": [1.4]
+    },
+    {
+      "name": "petal width (cm)",
+      "shape": [1],
+      "datatype": "FP32",
+      "data": [0.2]
+    }
+  ]
+}
